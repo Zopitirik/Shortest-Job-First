@@ -1,0 +1,4 @@
+This program is an Shortest Job First Scheduling algorithm simulator with C#.
+It is not the best way, it just shows how the algorithm works.
+
+.NET Framework 4 required.
