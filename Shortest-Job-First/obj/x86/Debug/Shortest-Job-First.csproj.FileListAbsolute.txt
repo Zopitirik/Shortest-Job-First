@@ -1,0 +1,8 @@
+C:\Users\Hikmet\Github\Shortest-Job-First\Shortest-Job-First\bin\Debug\Shortest-Job-First.exe
+C:\Users\Hikmet\Github\Shortest-Job-First\Shortest-Job-First\bin\Debug\Shortest-Job-First.pdb
+C:\Users\Hikmet\Github\Shortest-Job-First\Shortest-Job-First\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hikmet\Github\Shortest-Job-First\Shortest-Job-First\obj\x86\Debug\Shortest_Job_First.Properties.Resources.resources
+C:\Users\Hikmet\Github\Shortest-Job-First\Shortest-Job-First\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hikmet\Github\Shortest-Job-First\Shortest-Job-First\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hikmet\Github\Shortest-Job-First\Shortest-Job-First\obj\x86\Debug\Shortest-Job-First.exe
+C:\Users\Hikmet\Github\Shortest-Job-First\Shortest-Job-First\obj\x86\Debug\Shortest-Job-First.pdb
